@@ -1,2 +1,3 @@
 # ttl-suite
-ttl-suite - a Text Annotation Framework implemented in Python 3
+TTL-suite - a Python toolkit for managing and annotating textual content
+
